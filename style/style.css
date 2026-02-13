@@ -71,7 +71,7 @@ canvas.particles-js-canvas-el{
     color: white;
     background-color: var(--pink-color);
     border: 3px solid var(--pink-color);
-    width: 200px;
+    width: 113px;
     font-family: 'Poppins', sans-serif;
     margin-top: 10px;
 }
@@ -83,7 +83,7 @@ canvas.particles-js-canvas-el{
     border-color: white;
 }
 .hero_section .row img{
-    width: 80%;
+    width: 90%;
     border-radius: 50%;
 }
 
@@ -148,6 +148,7 @@ canvas.particles-js-canvas-el{
         margin-top: 20px;
     }
 }
+
 
 
 
