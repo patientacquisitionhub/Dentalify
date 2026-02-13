@@ -71,7 +71,7 @@ canvas.particles-js-canvas-el{
     color: white;
     background-color:var(--blue-color);
     border: 3px solid var(--blue-color);
-    width: 113px;
+    width: 313px;
     font-family: 'Poppins', sans-serif;
     margin-top: 10px;
 }
@@ -148,6 +148,7 @@ canvas.particles-js-canvas-el{
         margin-top: 20px;
     }
 }
+
 
 
 
